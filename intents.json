@@ -1,0 +1,230 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": [
+            "Hi",
+            "Hello",
+            "Hey",
+            "How are you",
+            "What's up"
+        ],
+        "responses": [
+            "Hello, welcome to Rolls-Royce! How can we assist you today?",
+            "Hi there! At Rolls-Royce, we’re here to make your journey extraordinary.",
+            "Hey! Looking to explore the elegance of Rolls-Royce?",
+            "I’m great, thank you! How can we enhance your Rolls-Royce experience?",
+            "Not much, but always ready to assist with your Rolls-Royce needs!"
+        ]
+    },
+    {
+        "tag": "services",
+        "patterns": [
+            "What services do you offer?",
+            "Tell me about your services",
+            "Do you offer maintenance?",
+            "What can you do for my car?"
+        ],
+        "responses": [
+            "At Rolls-Royce, we offer bespoke customization, maintenance, and exclusive services for your luxury car.",
+            "Our services include vehicle personalization, regular maintenance, and world-class care for your Rolls-Royce.",
+            "Yes, we provide meticulous maintenance to ensure your Rolls-Royce remains flawless.",
+            "We deliver unparalleled service to keep your Rolls-Royce in pristine condition."
+        ]
+    },
+    {
+        "tag": "pricing",
+        "patterns": [
+            "How much does a car cost?",
+            "What are your prices?",
+            "Are there any discounts?",
+            "What's the price range?"
+        ],
+        "responses": [
+            "The price of a Rolls-Royce depends on the model and customizations. Contact us for details!",
+            "Rolls-Royce vehicles are crafted to perfection. Let us provide a personalized quote for you.",
+            "Our pricing is reflective of the luxury and craftsmanship of Rolls-Royce. Ask us about the options available.",
+            "Rolls-Royce offers bespoke creations. Prices vary based on your preferences and customizations."
+        ]
+    },
+    {
+        "tag": "test_drive",
+        "patterns": [
+            "Can I schedule a test drive?",
+            "Do you offer test drives?",
+            "I want to try the car first",
+            "How do I book a test drive?"
+        ],
+        "responses": [
+            "Yes, you can schedule an exclusive test drive for a Rolls-Royce. Contact us for arrangements.",
+            "Experience the elegance of Rolls-Royce through a private test drive. Let us know your preferred model!",
+            "Book your Rolls-Royce test drive today and witness the pinnacle of luxury and performance.",
+            "We offer tailored test drive experiences for Rolls-Royce enthusiasts. Let’s arrange yours!"
+        ]
+    },
+    {
+        "tag": "location",
+        "patterns": [
+            "Where are you located?",
+            "What's your address?",
+            "How do I find your showroom?",
+            "Where can I visit?"
+        ],
+        "responses": [
+            "Our Rolls-Royce showroom is located at [Insert Address]. We look forward to your visit.",
+            "Visit the Rolls-Royce dealership at [Insert Address] for an exclusive experience.",
+            "You can find us at [Insert Address]. Indulge in the world of Rolls-Royce luxury!",
+            "We’re based at [Insert Address]. Come explore the timeless elegance of Rolls-Royce."
+        ]
+    },
+    {
+        "tag": "accessories",
+        "patterns": [
+            "Do you sell car accessories?",
+            "Can I buy accessories here?",
+            "What accessories do you offer?",
+            "Any upgrades for my car?"
+        ],
+        "responses": [
+            "Yes, Rolls-Royce offers bespoke accessories to complement your vehicle.",
+            "You can choose from premium accessories like personalized umbrellas, luggage sets, and more.",
+            "Our upgrades include custom interiors, exquisite exterior trims, and cutting-edge technology.",
+            "Explore Rolls-Royce’s luxurious accessory collection designed for unmatched elegance."
+        ]
+    },
+    {
+        "tag": "insurance",
+        "patterns": [
+            "Do you offer car insurance?",
+            "Can I get insurance here?",
+            "What are the insurance options?",
+            "Do you assist with insurance?"
+        ],
+        "responses": [
+            "Yes, we provide tailored insurance plans to ensure your Rolls-Royce is protected.",
+            "Rolls-Royce offers comprehensive insurance options for peace of mind.",
+            "We assist in selecting the best insurance plan for your Rolls-Royce.",
+            "Our team ensures seamless insurance coverage for your Rolls-Royce luxury car."
+        ]
+    },
+    {
+            "tag": "customization",
+            "patterns": [
+                "Can I customize my car?",
+                "Do you offer bespoke options?",
+                "I want to personalize my Rolls-Royce",
+                "What are the customization options?"
+            ],
+            "responses": [
+                "Absolutely! Rolls-Royce specializes in bespoke customization to match your vision.",
+                "Our Bespoke program allows you to personalize every detail of your Rolls-Royce.",
+                "From custom paint colors to personalized interiors, the possibilities are endless with Rolls-Royce.",
+                "Yes, let us create a Rolls-Royce that's uniquely yours through our bespoke services."
+            ]
+        },
+        {
+            "tag": "maintenance",
+            "patterns": [
+                "Do you offer maintenance services?",
+                "How can I service my Rolls-Royce?",
+                "What maintenance options are available?",
+                "Where can I get my Rolls-Royce serviced?"
+            ],
+            "responses": [
+                "Rolls-Royce offers exceptional maintenance services to ensure peak performance.",
+                "You can schedule a maintenance appointment with our expert technicians.",
+                "Our service team provides comprehensive care for your Rolls-Royce, from routine checks to advanced repairs.",
+                "Visit our authorized service center for unparalleled maintenance services."
+            ]
+        },
+        {
+            "tag": "warranty",
+            "patterns": [
+                "Do you offer a warranty?",
+                "What's the warranty on a Rolls-Royce?",
+                "How long is the warranty period?",
+                "Are repairs covered under warranty?"
+            ],
+            "responses": [
+                "Yes, Rolls-Royce vehicles come with a comprehensive warranty for your peace of mind.",
+                "Our warranty covers repairs and services to keep your Rolls-Royce in perfect condition.",
+                "Rolls-Royce offers a four-year unlimited mileage warranty as standard.",
+                "Yes, warranty coverage includes most repairs. Contact us for detailed terms."
+            ]
+        },
+        {
+            "tag": "events",
+            "patterns": [
+                "Do you host events?",
+                "What Rolls-Royce events are coming up?",
+                "Can I attend a Rolls-Royce showcase?",
+                "Are there any exclusive experiences available?"
+            ],
+            "responses": [
+                "Rolls-Royce hosts exclusive events and showcases for our valued customers.",
+                "Yes, we organize bespoke experiences, including private viewings and driving events.",
+                "Contact us to learn about upcoming Rolls-Royce events and luxury experiences.",
+                "Our events celebrate the spirit of Rolls-Royce. Join us for an unforgettable experience!"
+            ]
+        },
+        {
+            "tag": "history",
+            "patterns": [
+                "Tell me about Rolls-Royce",
+                "What's the history of Rolls-Royce?",
+                "How was Rolls-Royce founded?",
+                "What makes Rolls-Royce special?"
+            ],
+            "responses": [
+                "Rolls-Royce, founded in 1904, stands for luxury, innovation, and craftsmanship.",
+                "Rolls-Royce combines heritage and cutting-edge technology to deliver timeless excellence.",
+                "Founded by Charles Rolls and Henry Royce, the brand is a symbol of perfection in automotive luxury.",
+                "The pursuit of perfection makes Rolls-Royce unique. Each car is a masterpiece of engineering and design."
+            ]
+        },
+        {
+            "tag": "electric_models",
+            "patterns": [
+                "Do you have electric cars?",
+                "Are there any electric Rolls-Royce models?",
+                "Tell me about your EV options",
+                "What is Spectre?"
+            ],
+            "responses": [
+                "Yes, Rolls-Royce has entered the electric era with the Spectre, our first all-electric car.",
+                "Spectre is a fully electric Rolls-Royce, combining luxury with sustainable innovation.",
+                "We’re committed to an electric future. Spectre represents the pinnacle of electric luxury vehicles.",
+                "Explore Spectre, the first step in Rolls-Royce’s journey towards full electrification by 2030."
+            ]
+        },
+        {
+            "tag": "heritage_cars",
+            "patterns": [
+                "Do you have classic Rolls-Royce cars?",
+                "Can I buy a vintage Rolls-Royce?",
+                "What are your heritage options?",
+                "Do you restore classic Rolls-Royce models?"
+            ],
+            "responses": [
+                "Yes, Rolls-Royce offers support for heritage models through our certified restoration services.",
+                "We assist with sourcing, restoring, and maintaining vintage Rolls-Royce cars.",
+                "Rolls-Royce heritage cars embody timeless elegance. Contact us to explore your options.",
+                "Our team specializes in preserving the legacy of classic Rolls-Royce models."
+            ]
+        },
+        {
+            "tag": "luxury_features",
+            "patterns": [
+                "What are the luxury features?",
+                "Tell me about Rolls-Royce interiors",
+                "What makes Rolls-Royce unique?",
+                "Are there any special features in Rolls-Royce cars?"
+            ],
+            "responses": [
+                "Rolls-Royce cars feature handcrafted interiors, Starlight Headliners, and unparalleled comfort.",
+                "Every Rolls-Royce is equipped with state-of-the-art technology and bespoke luxury features.",
+                "Experience amenities like custom embroidery, rear-seat entertainment, and whisper-quiet cabins.",
+                "Rolls-Royce combines heritage and innovation to deliver unmatched luxury and performance."
+            ]
+        }
+    ]
+    
